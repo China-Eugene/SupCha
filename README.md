@@ -20,6 +20,6 @@
 
 **若果觉得还行，Star一下活到99**
 ##  联系方式
-**Auto: Eugene**
-**QQ：775754902**
+**Auto: Eugene**  
+**QQ：775754902**  
 **lssues：**(https://github.com/China-Eugene/SupCha/issues)
