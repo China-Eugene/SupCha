@@ -22,6 +22,7 @@
 ##  联系方式
 **Auto: Eugene **
 **QQ ：775754902**
+<i class="fa fa-renren fa-5x"></i>
 [lssues](https://github.com/China-Eugene/SupCha/issues "lssues")
 
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
