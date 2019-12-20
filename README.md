@@ -24,5 +24,17 @@
 **QQ ：775754902**
 <i class="fa fa-renren fa-5x"></i>
 [lssues](https://github.com/China-Eugene/SupCha/issues "lssues")
+---
+title: "Title"
+author: "Author"
+date: "DATE"
+output: 
+  html_document:
+     css: font-awesome-4.4.0/css/font-awesome.css
+     self_contained: no
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
+---
+<i class="fa fa-renren fa-5x"></i>
+
+To preview the correctly rendered html file, click 
+<a href="http://htmlpreview.github.io/?https://github.com/FlorianWanders/FAonGitHub/blob/master/MWE.html" title="preview on htmlpreview.github.io" target="_blank">here</a>.
