@@ -20,11 +20,8 @@
 
 **若果觉得还行，Star一下活到99 **:fa-star:
 ##  联系方式
-**:fa-pencil:  Auto: Eugene **
-:fa-qq: **：775754902**
-:fa-github: [lssues](https://github.com/China-Eugene/SupCha/issues "lssues")
-<head> 
-    <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/all.js"></script> 
-    <script defer src="https://use.fontawesome.com/releases/v5.1.0/js/v4-shims.js"></script> 
-</head> 
+**Auto: Eugene **
+**QQ ：775754902**
+[lssues](https://github.com/China-Eugene/SupCha/issues "lssues")
+
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css">
