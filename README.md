@@ -18,8 +18,8 @@
 这个版本就叫 **SupCha v1.0** 吧，因为最近比较忙就写了套了这几个接口，后面争取在加点接口
 **大佬们有好用的接口可以推荐一下**
 
-**若果觉得还行，Star一下活到99 **
+**若果觉得还行，Star一下活到99**
 ##  联系方式
-**Auto: Eugene **
+**Auto: Eugene**
 **QQ：775754902**
-lssues：(https://github.com/China-Eugene/SupCha/issues)
+**lssues：**(https://github.com/China-Eugene/SupCha/issues)
