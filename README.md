@@ -12,13 +12,13 @@
 
 ## 使用方法 :fa-cog:：
 > 1. 安装Python3环境  [点击学习](https://www.runoob.com/python3/python3-install.html "study")
-2. 用到 requests、json、re 三个库 `pip install requests json re`
-3. 根据脚本提示进行需求选择
+> 2. 用到 requests、json、re 三个库 `pip install requests json re`
+> 3. 根据脚本提示进行需求选择
 
 这个版本就叫 **SupCha v1.0** 吧，因为最近比较忙就写了套了这几个接口，后面争取在加点接口
 **大佬们有好用的接口可以推荐一下**
 
-**若果觉得还行，Star一下活到99 :fa-star:**
+**若果觉得还行，Star一下活到99 **:fa-star:
 ##  联系方式
 **:fa-pencil:  Auto: Eugene **
 :fa-qq: **：775754902**
