@@ -19,7 +19,5 @@
 **大佬们有好用的接口可以推荐一下**
 
 **若果觉得还行，Star一下活到99**
-##  联系方式
-**Auto: Eugene**  
-**QQ：775754902**  
+##  联系方式 
 **lssues：**(https://github.com/China-Eugene/SupCha/issues)
